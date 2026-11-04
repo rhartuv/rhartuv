@@ -84,4 +84,4 @@ Here are some ideas to get you started:
 </p>
 
  ### 📫 How to reach me: 
- ![Slack](https://redhat.enterprise.slack.com/team/U07UACZES07)
+[![Slack](https://redhat.enterprise.slack.com/team/U07UACZES07)
