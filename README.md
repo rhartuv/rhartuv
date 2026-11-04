@@ -80,8 +80,16 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhartuv&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="98%" />
+</p>
+
+---
+
+### 📫 How to reach me:
+
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]([mailto:rhartuv@redhat.com](https://redhat.enterprise.slack.com/team/U07UACZES07))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhartuv)
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhartuv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
- ### 📫 How to reach me: 
-[![Slack](https://redhat.enterprise.slack.com/team/U07UACZES07)
