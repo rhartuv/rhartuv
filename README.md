@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 Activity & Streak Statistics
+### 📈 Activity & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rhartuv&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rhartuv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rhartuv&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhartuv&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rhartuv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
+
 
 ---
 
@@ -90,6 +90,6 @@ Here are some ideas to get you started:
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]([mailto:rhartuv@redhat.com](https://redhat.enterprise.slack.com/team/U07UACZES07))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhartuv)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhartuv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  
 </p>
 
