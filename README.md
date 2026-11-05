@@ -82,6 +82,14 @@ Here are some ideas to get you started:
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rhartuv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhartuv/rhartuv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhartuv/rhartuv/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/rhartuv/rhartuv/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
